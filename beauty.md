@@ -32,9 +32,11 @@ With statistical physics, explains semiconductors! Learn about the [energy bands
 
 Counter intuitive.
 
-It is impossible to go faster than light.
-
 Special:
+
+-   It is impossible to go faster than light.
+
+    It is impossible to measure anything faster than light. Even if you are on a moving car towards the light.
 
 -   Matter can be converted into energy and vice versa.
 
@@ -56,6 +58,8 @@ General:
 
 -   cosmic background radiation
 
+-   <https://en.wikipedia.org/wiki/Two-body_problem_in_general_relativity> <http://space.stackexchange.com/questions/1911/is-there-any-stable-orbit-around-a-black-hole>
+
 ## Standard model
 
 There are 4 types of forces:
@@ -74,3 +78,13 @@ Explains the spin of particles.
 ## Astronomy
 
 The Earth is round. Radius estimate experience by Erastosthenes by using shadow lengths: <https://en.wikipedia.org/wiki/Eratosthenes#Measurement_of_the_Earth.27s_circumference> He came up with it after he read by chance
+
+## Granular materials
+
+https://en.wikipedia.org/wiki/Granular_material
+
+http://www.physicscentral.com/explore/action/granular.cfm
+
+Many toys: https://www.youtube.com/watch?v=rDxtJWLY-so
+
+Unlike for liquids, density is not the only factor to determine who goes up and down: particle size also matters, and big particles go up: https://www.youtube.com/watch?v=dshv6bNcIKU
