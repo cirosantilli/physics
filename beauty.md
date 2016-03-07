@@ -8,6 +8,10 @@ Superconductivity. A completely different level of conductivity, caused by a sup
 
 An elephant and a piece of paper fall at the same speed without air. 13 year olds without physics training don't know that!
 
+Major experiments:
+
+- trajectory of the plants. If you use square distance forces, and Newton's laws, it just works.
+
 ## Atom
 
 Electron charge is quantized.
