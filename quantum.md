@@ -144,6 +144,7 @@ This is the case for the energy of an harmonic oscillator it is unbounded (its e
 
 - cannot be describe classically, because it would require the electron particle to spin faster than light.
 - is a property of particles like mass and charge: some electrons are up, some are down
+- Bosom vs Fermion statistics is a theorem consequence of the spin values: <http://physics.stackexchange.com/questions/150255/what-is-the-difference-between-a-lepton-and-a-fermion> <https://en.wikipedia.org/wiki/Spin–statistics_theorem>
 
 ## Polarization of light
 
