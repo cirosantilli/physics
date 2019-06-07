@@ -9,6 +9,8 @@
 :toclevels: 6
 :toc-title:
 
+toc::[]
+
 . link:beauty.md[Beauty]
 . link:si-units.md[SI Units]
 . link:quantum.md[Quantum]
